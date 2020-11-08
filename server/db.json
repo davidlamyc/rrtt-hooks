@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "description": "typicode"
+    },
+    {
+      "title": "react",
+      "description": "learn react",
+      "id": 2
+    },
+    {
+      "title": "express",
+      "description": "learn express",
+      "id": 3
+    }
+  ]
+}
